@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\bin\Debug\net8.0\ISP.exe
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\bin\Debug\net8.0\ISP.deps.json
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\bin\Debug\net8.0\ISP.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\bin\Debug\net8.0\ISP.pdb
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\refint\ISP.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.pdb
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ISP\obj\Debug\net8.0\ref\ISP.dll

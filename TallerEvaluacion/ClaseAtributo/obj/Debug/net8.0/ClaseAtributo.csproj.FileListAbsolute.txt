@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.AssemblyInfo.cs
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\bin\Debug\net8.0\ClaseAtributo.exe
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\bin\Debug\net8.0\ClaseAtributo.deps.json
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\bin\Debug\net8.0\ClaseAtributo.runtimeconfig.json
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\bin\Debug\net8.0\ClaseAtributo.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\bin\Debug\net8.0\ClaseAtributo.pdb
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\refint\ClaseAtributo.dll
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.pdb
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ClaseAtributo.genruntimeconfig.cache
+C:\Users\SENA\source\repos\TallerEvaluacion\ClaseAtributo\obj\Debug\net8.0\ref\ClaseAtributo.dll
